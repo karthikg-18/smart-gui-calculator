@@ -18,3 +18,8 @@ This is a simple GUI-based calculator built using **Python and Tkinter**.
 
 ## 📌 Project Purpose
 This project demonstrates how to build a simple GUI application using Python.
+
+## 📚 What I Learned
+- Handling button click events in Tkinter
+- Designing user-friendly GUI layouts
+- Managing input and output dynamically
